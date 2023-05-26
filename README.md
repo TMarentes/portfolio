@@ -11,7 +11,7 @@ Tech stack (e.g. html, css, deployment platform, etc)
 
 
 # Theo Marentes - Portfolio T1A2 
-
+Portfolio URL: [theomarentes.netlify.app](https://theomarentes.netlify.app/)
 
 ## H2
 ### H3
