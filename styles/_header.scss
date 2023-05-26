@@ -1,0 +1,56 @@
+.header {
+    background-color: $primary;
+    display: flex;
+    justify-content: space-between;
+
+    .site-logo {
+        display: flex;
+        margin: auto 0;
+
+    }
+
+    .site-image {
+        width: 32px;
+        height: 32px;
+        margin: 10px;
+    }
+
+    .site-text {
+        margin: auto 0;
+        color: $secondary;
+        text-decoration: none;
+    }
+
+    .nav-bar {
+        display: flex;
+        margin: auto 0;
+        list-style-type: none;
+        
+        
+        
+        a {
+            color: white;
+            margin: 10px;
+            text-decoration: none
+            
+        }
+        
+    }
+
+    .nav-container {
+        display: flex;
+        margin: auto 0;
+        
+    }
+
+
+}
+
+@media only screen and (max-width: 500px) {
+    .header {
+        justify-content: none;
+    }
+    .nav-bar {
+        flex-direction:column;
+    }
+}

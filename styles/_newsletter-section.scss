@@ -1,0 +1,21 @@
+.newsletter-section {
+    display: flex;
+    padding-bottom: 5%;
+    flex-direction: column;
+    text-align: center;
+    
+    .newsletter-form {
+        margin-top: 2%;
+        .newsletter-input {
+            padding: 5px;
+            border: 1px solid black;
+        }
+
+        .submit-button {
+            background-color: $primary;
+            color: $secondary;
+            padding: 5px;
+            border: 2px solid black;
+        }
+    }
+}

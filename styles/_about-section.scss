@@ -1,0 +1,43 @@
+.about-section {
+    display: flex;
+    flex-direction: column;
+    .about-text {
+        padding:5%;
+        text-align: center;
+
+        .about-button {
+            background-color: $primary;
+            color: $secondary;
+            padding: 10px;
+            margin:5px 0;
+            border: 2px solid black;
+        }
+    }
+    .about-img {
+        width: 70%;
+        height: 70%;
+        margin: auto;
+    }
+
+   
+}
+
+@media only screen and (min-width: 800px) {
+    .about-section {
+        flex-direction: row;
+        justify-content: space-between;
+
+        .about-text {
+            margin: auto 2%;
+            text-align: left;
+            
+        }
+
+        .about-img {
+            margin: 2%;
+            margin-right:5%;
+            width: 450px;
+            height: 450px;
+        }
+    }    
+}

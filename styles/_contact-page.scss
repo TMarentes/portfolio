@@ -1,0 +1,93 @@
+.socials {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: auto;
+
+    
+    
+    .socials-image {
+        width: 32px;
+        height: 32px; 
+        margin: 5px;
+    }
+}
+
+.contact-page {
+    text-align: center;
+    margin: 4%;
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top:3%;
+
+        .contact-items {
+            display: flex;
+            flex-direction: column;
+            .contact-item {
+                display: flex;
+                flex-direction: row;
+                margin:4%;
+                .contact-item-image {
+                    width: 40px;
+                    height: 40px;
+                    margin:4%;
+                }
+
+                .contact-text {
+                    display: flex;
+                    flex-direction: column;
+                    text-align: left;
+                }
+            }
+        }
+
+        .contact-form {
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            margin-top: 4%;
+            .name-input {
+                padding: 5px;
+                border: 1px solid black;
+            }
+            .email-input {
+                padding: 5px;
+                border: 1px solid black;
+            }
+            .message-input {
+                padding: 5px;
+                border: 1px solid black;
+                height: 150px;
+            }
+            .submit-button {
+                background-color: $primary;
+                color: $secondary;
+                padding: 5px;
+                border: 2px solid black;
+            }
+    }
+    
+}
+}
+
+@media only screen and (min-width: 700px) {
+    .contact-page {
+
+        .contact-container {
+            flex-direction: row;
+            justify-content: space-around;
+            
+            .contact-form {
+                width: 40%;
+                margin-top: 0%;
+            } 
+        }
+    }
+
+    .socials {
+        margin: 0;
+    }
+
+}

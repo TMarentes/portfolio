@@ -1,0 +1,50 @@
+.hero-section {
+    background: $secondary;
+    display: flex;
+    flex-direction: column;
+
+    .hero-img {
+        margin: 20px auto;
+        width: 70%;
+    }
+
+    .hero-text {
+        text-align: center; 
+        margin-bottom: 20px;
+        
+    }
+
+    .contact-button {
+        background-color: $primary;
+        color: $secondary;
+        padding: 10px;
+        margin:5px;
+        border: 2px solid black;
+    }
+    .download-cv {
+        background-color: $secondary;
+        color: $tertiary;
+        padding: 10px;
+        margin:5px;
+        border: 2px solid black;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .hero-section {
+        flex-direction: row;
+        justify-content:space-evenly;
+
+        .hero-text {
+            margin: auto 2%;
+            text-align: left;
+            
+        }
+
+        .hero-img {
+            margin: 2%;
+            width:450px;
+            height: 450px;
+        }
+    }    
+}

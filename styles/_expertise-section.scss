@@ -1,0 +1,77 @@
+.expertise-section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5%;
+
+    .progress-bars {
+        p {
+            text-align: left;
+        }
+
+        .progress-bar-1 {
+            background-color: #ffd59e;
+            height:20px;
+            width: 100%;
+            .progress-1 {
+                background-color: #ff9100;
+                height: 20px;
+                width: 70%;
+            }
+        }
+
+        .progress-bar-2 {
+            background-color: #95e999;
+            height:20px;
+            width: 100%;
+            .progress-2 {
+                background-color: #00a61c;
+                height: 20px;
+                width: 60%;
+            }
+        }
+
+        .progress-bar-3 {
+            background-color: #fff99e;
+            height:20px;
+            width: 100%;
+            .progress-3 {
+                background-color: #ffea00;
+                height: 20px;
+                width: 50%;
+            }
+        }
+
+
+
+    }
+
+}
+
+@media only screen and (min-width: 700px) {
+    .expertise-content {
+        display: flex;
+        flex-direction: row;
+        padding-top: 2%;
+        .text-block {
+            padding-top:2%;
+        }
+
+        .progress-bars {
+            margin: 3%;
+
+            .progress-bar-1 {
+                width: 40vw;
+            }
+
+            .progress-bar-2 {
+                width: 40vw;
+            }
+
+            .progress-bar-3 {
+                width: 40vw;
+            }
+        }
+
+    }   
+}

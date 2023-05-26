@@ -1,0 +1,24 @@
+.blog-post {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 5%;
+
+    .blog-image {
+        margin: 4%
+    }
+
+    
+}
+
+.blog-button {
+    background-color: $primary;
+    color: $secondary;
+    padding: 10px;
+    margin:5px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:5%;
+    
+}

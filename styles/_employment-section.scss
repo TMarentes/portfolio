@@ -1,0 +1,33 @@
+.employment-section {
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    text-align: center;
+    
+    .employment-boxes {
+        text-align: left;
+        flex-direction:row;
+
+        .employment-box {
+            background-color: $primary;
+            margin: 3%; 
+            padding: 3%;
+            color: $secondary; 
+        }
+    }
+    
+}
+
+@media only screen and (min-width: 700px) {
+    .employment-section {
+        .employment-boxes {
+            display: flex;
+            flex-direction: row;
+            .employment-box {
+                width: 45%;
+            }
+        }
+        
+        
+    }
+}
