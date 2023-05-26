@@ -10,12 +10,14 @@ Target audience
 Tech stack (e.g. html, css, deployment platform, etc)
 
 
-# H1
+# Theo Marentes - Portfolio T1A2 
+
+
 ## H2
 ### H3
 Bold	**bold text**
 Italic	*italicized text*
-Blockquote	> blockquote
+> blockquote
 1. First item
 2. Second item
 3. Third item
