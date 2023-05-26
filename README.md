@@ -1,17 +1,18 @@
-A link (URL) to your published portfolio website
-A link to your GitHub repo
-A link to your presentation video
-Description of your portfolio website, including,
-Purpose
-Functionality / features
-Sitemap
-Screenshots
-Target audience
-Tech stack (e.g. html, css, deployment platform, etc)
+# Theo Marentes - Portfolio T1A2
 
-
-# Theo Marentes - Portfolio T1A2 
 Portfolio URL: [theomarentes.netlify.app](https://theomarentes.netlify.app/)
+
+Github Repository: [github.com/TMarentes/portfolio](https://github.com/TMarentes/portfolio)
+
+Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
+
+## Portfolio Description
+### Purpose
+### Functionality / features
+### Sitemap
+### Screenshots
+### Target audience
+### Tech stack (e.g. html, css, deployment platform, etc)
 
 ## H2
 ### H3
