@@ -21,29 +21,24 @@ The home page has 7 components, each displaying information about Theo.
 
 The first component is a hero landing page, showcasing an image and descriptive text. There are 2 buttons with one linking to the contact page and the other allowing visitors to download a CV.
 
-![Hero section of the home page](images/readme-hero.png)
+The next component is an about me section, displaying text about my interests and hobbies. There is also an image of myself holding a skateboard.
 
+The qualities section displays 3 of my key qualities in a well-presented manner. There are icons for each quality, along with a header and a paragraph for each.
 
+The expertise component has progress bars which portray my skill with certain coding languages. There is also a paragraph of text explaining my proficiency in these coding languages.
+
+The employment history section contains 2 boxes which show my past employment with white text in blue boxes.
+
+The blog posts component displays the 3 most recent blog posts with a button linking to the blog page also.
+
+The newsletter component on the home page allows users to enter their email address and press the submit button. 
 
 
 ### Sitemap
 ### Screenshots
 ### Target audience
-### Tech stack (e.g. html, css, deployment platform, etc)
+The target audience of my web developer portfolio website typically includes potential clients seeking web development services, recruiters or hiring managers looking to evaluate my skills and experience, and fellow developers interested in collaboration or networking. The portfolio website effectively showcases the developer's technical proficiency, highlights their previous projects and achievements, and demonstrates their ability to solve complex problems.
 
-## H2
-### H3
-Bold	**bold text**
-Italic	*italicized text*
-> blockquote
-1. First item
-2. Second item
-3. Third item
-Unordered List	- First item
-- Second item
-- Third item
-Code	`code`
-Horizontal Rule	
----
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+### Tech stack (e.g. html, css, deployment platform, etc)
+The portfolio website was built with HTML and SCSS. 
+
