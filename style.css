@@ -19,15 +19,20 @@ body {
   display: flex;
   margin: auto 0;
 }
-.header .site-image {
+.header .image-link {
+  display: flex;
+}
+.header .image-link .site-image {
   width: 32px;
   height: 32px;
   margin: 10px;
+  border-radius: 100%;
 }
 .header .site-text {
   margin: auto 0;
   color: white;
   text-decoration: none;
+  font-weight: 700;
 }
 .header .nav-bar {
   display: flex;
@@ -53,7 +58,7 @@ body {
   }
 }
 .hero-section {
-  background: white;
+  background: #180b00;
   display: flex;
   flex-direction: column;
 }
@@ -64,6 +69,8 @@ body {
 .hero-section .hero-text {
   text-align: center;
   margin-bottom: 20px;
+  padding: 3%;
+  color: white;
 }
 .hero-section .contact-button {
   background-color: #0062fe;
@@ -287,7 +294,8 @@ body {
 }
 .newsletter-section {
   display: flex;
-  padding-bottom: 5%;
+  padding: 5%;
+  margin-bottom: 8vh;
   flex-direction: column;
   text-align: center;
 }
@@ -320,10 +328,20 @@ body {
   height: 32px;
   margin: 10px;
 }
+.footer .image-link {
+  display: flex;
+}
+.footer .image-link .site-image {
+  width: 32px;
+  height: 32px;
+  margin: 10px;
+  border-radius: 100%;
+}
 .footer .site-text {
   margin: auto 0;
   color: white;
   text-decoration: none;
+  font-weight: 700;
 }
 .footer .nav-bar {
   display: flex;

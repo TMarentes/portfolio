@@ -9,16 +9,21 @@
 
     }
 
-    .site-image {
-        width: 32px;
-        height: 32px;
-        margin: 10px;
+    
+    .image-link {
+        display: flex;
+        .site-image {
+            width: 32px;
+            height: 32px;
+            margin: 10px;
+            border-radius: 100%;
+        }
     }
-
     .site-text {
         margin: auto 0;
         color: $secondary;
         text-decoration: none;
+        font-weight: 700;
     }
 
     .nav-bar {
