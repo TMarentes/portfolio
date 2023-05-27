@@ -8,7 +8,16 @@ Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
 
 ## Portfolio Description
 ### Purpose
+The portfolio website serves as a digital showcase of my work, highlighting his skills and expertise. It enables me to present projects, creative endeavors and professional achievements in a visually appealing and easily accessible manner, attracting potential clients, employers or collaborators.
+
 ### Functionality / features
+The portfolio website has 4 main pages: home, about, blog and contact. Each page contains components with text and imagery, and there is an additional 6 blog post pages.
+
+The header component allows users to navigate immediately on all devices, enhancing user experience and ensuring easy access to essential elements of the website. 
+
+![Blue header with white navigation text](images/readme-header.png)
+
+
 ### Sitemap
 ### Screenshots
 ### Target audience
