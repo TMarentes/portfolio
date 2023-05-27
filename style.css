@@ -76,14 +76,14 @@ body {
   background-color: #0062fe;
   color: white;
   padding: 10px;
-  margin: 5px;
+  margin: 5px 0;
   border: 2px solid black;
 }
 .hero-section .download-cv {
   background-color: white;
   color: black;
   padding: 10px;
-  margin: 5px;
+  margin: 5px 0;
   border: 2px solid black;
 }
 
