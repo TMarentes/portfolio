@@ -14,9 +14,9 @@ Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
 
 [Sitemap](https://github.com/TMarentes/portfolio#Sitemap)
 
-[Target Audience](https://github.com/TMarentes/portfolio#Target_Audience)
+[Target Audience](https://github.com/TMarentes/portfolio#TargetAudience)
 
-[Tech Stack](https://github.com/TMarentes/portfolio#Tech_Stack)
+[Tech Stack](https://github.com/TMarentes/portfolio#TechStack)
 
 [Screenshots](https://github.com/TMarentes/portfolio#Screenshots)
 
