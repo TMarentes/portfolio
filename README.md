@@ -9,11 +9,17 @@ Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
 ## Portfolio Overview
 ### Contents
 [Purpose](https://github.com/TMarentes/portfolio#purpose)
-[Functionality/Features](https://github.com/TMarentes/portfolio#Functionality/Features)
+
+[Functionality/Features](https://github.com/TMarentes/portfolio#FunctionalityFeatures)
+
 [Sitemap](https://github.com/TMarentes/portfolio#Sitemap)
-[Target Audience](https://github.com/TMarentes/portfolio#Target Audience)
-[Tech Stack](https://github.com/TMarentes/portfolio#Tech Stack)
+
+[Target Audience](https://github.com/TMarentes/portfolio#Target_Audience)
+
+[Tech Stack](https://github.com/TMarentes/portfolio#Tech_Stack)
+
 [Screenshots](https://github.com/TMarentes/portfolio#Screenshots)
+
 
 ### Purpose
 The portfolio website serves as a digital showcase of my work, highlighting his skills and expertise. It enables me to present projects, creative endeavors and professional achievements in a visually appealing and easily accessible manner, attracting potential clients, employers or collaborators.
