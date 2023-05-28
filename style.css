@@ -44,6 +44,10 @@ body {
   margin: 10px;
   text-decoration: none;
 }
+.header .nav-bar a:hover {
+  border-bottom: 3px solid white;
+  transition: 0.3s;
+}
 .header .nav-container {
   display: flex;
   margin: auto 0;
@@ -71,6 +75,10 @@ body {
   margin-bottom: 20px;
   padding: 3%;
   color: white;
+}
+.hero-section .hero-text h1:hover {
+  color: #0062fe;
+  transition: 0.5s;
 }
 .hero-section .contact-button {
   background-color: #0062fe;

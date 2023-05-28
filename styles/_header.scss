@@ -39,6 +39,11 @@
             text-decoration: none
             
         }
+
+        a:hover {
+            border-bottom: 3px solid white;
+            transition: 0.3s;
+        }
         
     }
 
