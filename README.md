@@ -65,19 +65,19 @@ Home Page (Mobile)
 Home Page (Desktop)
 
 ![Desktop home page](images/readme-screenshot-1.png)
-
+---
 About Page
 
 ![About page](images/readme-screenshot-3.png)
-
+---
 Blog Page
 
 ![About page](images/readme-screenshot-4.png)
-
+---
 Blog Post Page
 
 ![About page](images/readme-screenshot-6.png)
-
+---
 Contact Page
 
 ![About page](images/readme-screenshot-5.png)
