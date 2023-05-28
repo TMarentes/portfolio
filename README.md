@@ -6,11 +6,19 @@ Github Repository: [github.com/TMarentes/portfolio](https://github.com/TMarentes
 
 Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
 
-## Portfolio Description
+## Portfolio Overview
+### Contents
+[Purpose](https://github.com/TMarentes/portfolio#purpose)
+[Functionality/Features](https://github.com/TMarentes/portfolio#Functionality/Features)
+[Sitemap](https://github.com/TMarentes/portfolio#Sitemap)
+[Target Audience](https://github.com/TMarentes/portfolio#Target Audience)
+[Tech Stack](https://github.com/TMarentes/portfolio#Tech Stack)
+[Screenshots](https://github.com/TMarentes/portfolio#Screenshots)
+
 ### Purpose
 The portfolio website serves as a digital showcase of my work, highlighting his skills and expertise. It enables me to present projects, creative endeavors and professional achievements in a visually appealing and easily accessible manner, attracting potential clients, employers or collaborators.
 
-### Functionality / features
+### Functionality/Features
 The portfolio website has 4 main pages: home, about, blog and contact. Each page contains components with text and imagery, and there is an additional 6 blog post pages.
 
 The header and footer components display on all pages and allow users to navigate immediately on all devices, enhancing user experience and ensuring easy access to essential elements of the website. 
