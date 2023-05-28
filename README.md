@@ -61,7 +61,7 @@ The portfolio website was built with HTML and SCSS.  The structure and content o
 Home Page (Mobile)
 
 ![Mobile home page](images/readme-screenshot-2.png)
-
+---
 Home Page (Desktop)
 
 ![Desktop home page](images/readme-screenshot-1.png)
