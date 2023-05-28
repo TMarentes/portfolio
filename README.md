@@ -36,10 +36,27 @@ The newsletter component on the home page allows users to enter their email addr
 
 ### Sitemap
 ### Screenshots
-![Home page](images/readme-screenshot-1.png)
+Home Page (Mobile)
+![Mobile home page](images/readme-screenshot-2.png)
+
+Home Page (Desktop)
+![Desktop home page](images/readme-screenshot-1.png)
+
+About Page
+![About page](images/readme-screenshot-3.png)
+
+Blog Page
+![About page](images/readme-screenshot-4.png)
+
+Blog Post Page
+![About page](images/readme-screenshot-6.png)
+
+Contact Page
+![About page](images/readme-screenshot-5.png)
+
 ### Target audience
-The target audience of my web developer portfolio website typically includes potential clients seeking web development services, recruiters or hiring managers looking to evaluate my skills and experience, and fellow developers interested in collaboration or networking. The portfolio website effectively showcases the developer's technical proficiency, highlights their previous projects and achievements, and demonstrates their ability to solve complex problems.
+The target audience of my web developer portfolio website typically includes potential clients seeking web development services, recruiters or hiring managers looking to evaluate my skills and experience, and fellow developers interested in collaboration or networking. The portfolio website effectively showcases my technical proficiency, highlights my previous employment and achievements, and demonstrates my ability to solve complex problems.
 
 ### Tech stack (e.g. html, css, deployment platform, etc)
-The portfolio website was built with HTML and SCSS. 
+The portfolio website was built with HTML and SCSS.  The structure and content of the web pages were created using HTML markup. HTML provides the foundation for defining elements like headings, paragraphs, links, and images. SCSS (Sass) was then used as a preprocessor to write more modular and maintainable CSS code, allowing for variables, mixins, and nested rules, which are compiled into regular CSS that styles the HTML elements giving the website its visual appearance and layout.
 
