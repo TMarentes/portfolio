@@ -12,6 +12,11 @@
             margin:5px 0;
             border: 2px solid black;
         }
+        .about-button:hover {
+            background-color: $quaternary;
+            transition: 0.5s;
+            color: $tertiary;
+        }
     }
     .about-img {
         width: 70%;

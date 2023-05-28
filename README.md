@@ -36,6 +36,7 @@ The newsletter component on the home page allows users to enter their email addr
 
 ### Sitemap
 ### Screenshots
+![Home page](images/readme-screenshot-1.png)
 ### Target audience
 The target audience of my web developer portfolio website typically includes potential clients seeking web development services, recruiters or hiring managers looking to evaluate my skills and experience, and fellow developers interested in collaboration or networking. The portfolio website effectively showcases the developer's technical proficiency, highlights their previous projects and achievements, and demonstrates their ability to solve complex problems.
 

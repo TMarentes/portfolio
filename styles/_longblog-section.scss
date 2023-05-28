@@ -24,6 +24,12 @@
                 border: 2px solid black;
             }
 
+            .view-post-button:hover {
+                background-color: $quaternary;
+                color: black;
+                transition: 0.5s;
+            }
+
         }
     }
 
@@ -34,6 +40,12 @@
         margin:5px;
         border: 2px solid black;
     }
+    .blog-button:hover {
+        background-color: $quaternary;
+        color: black;
+        transition: 0.5s;
+    }
+    
 }
 
 

@@ -25,6 +25,9 @@
         text-decoration: none;
         font-weight: 700;
     }
+    .site-text:hover {
+        color: $quaternary;
+    }
 
     .nav-bar {
         display: flex;
@@ -41,8 +44,9 @@
         }
 
         a:hover {
-            border-bottom: 3px solid white;
+            border-bottom: 3px solid $quaternary;
             transition: 0.3s;
+            color: $quaternary;
         }
         
     }

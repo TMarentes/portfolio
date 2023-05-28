@@ -11,6 +11,12 @@
             height: 32px; 
         }
     }
+
+    .quality-item h3:hover {
+        color: $primary;
+    }
+
+   
 }
 
 @media only screen and (min-width: 700px) {

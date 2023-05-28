@@ -14,6 +14,11 @@
             padding: 3%;
             color: $secondary; 
         }
+        .employment-box:hover {
+            background-color: $quaternary;
+            color: $tertiary;
+            transition: 0.5s;
+        }
     }
     
 }

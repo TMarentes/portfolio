@@ -6,7 +6,10 @@
     .hero-img {
         margin: 20px auto;
         width: 70%;
+
     }
+
+    
 
     .hero-text {
         text-align: center; 
@@ -28,12 +31,22 @@
         margin: 5px 0;
         border: 2px solid black;
     }
+    .contact-button:hover {
+        background-color: $quaternary;
+        color: black;
+        transition: 0.5s;
+    }
+
     .download-cv {
         background-color: $secondary;
         color: $tertiary;
         padding: 10px;
         margin: 5px 0;
         border: 2px solid black;
+    }
+    .download-cv:hover {
+        background-color: $quaternary;
+        transition: 0.5s;
     }
 }
 
@@ -48,10 +61,20 @@
             
         }
 
+        @keyframes slide-left {
+            0% {margin-left:-100px;
+            opacity: 0%;}
+            100% {margin-left:0;
+                margin: 2%;
+            opacity: 100%;}
+        }
+
         .hero-img {
             margin: 2%;
             width:450px;
             height: 450px;
+            animation-name: slide-left;
+            animation-duration: 2s;
         }
     }    
 }

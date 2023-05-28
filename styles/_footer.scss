@@ -26,12 +26,15 @@
             border-radius: 100%;
         }
     }
-    
+
     .site-text {
         margin: auto 0;
         color: $secondary;
         text-decoration: none;
         font-weight: 700;
+    }
+    .site-text:hover {
+        color: $quaternary;
     }
 
     .nav-bar {
@@ -46,6 +49,11 @@
             color: white;
             margin: 10px;
             text-decoration: none;
+        }
+        a:hover {
+            border-bottom: 3px solid $quaternary;
+            transition: 0.3s;
+            color: $quaternary;
         }
         
     }

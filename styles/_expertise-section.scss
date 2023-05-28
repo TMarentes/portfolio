@@ -4,6 +4,12 @@
     text-align: center;
     padding: 5%;
 
+    .expertise-content {
+        .text-block:hover {
+            color: $primary;
+        }
+    }
+
     .progress-bars {
         p {
             text-align: left;
