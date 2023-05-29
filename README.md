@@ -4,7 +4,7 @@ Portfolio URL: [theomarentes.netlify.app](https://theomarentes.netlify.app/)
 
 Github Repository: [github.com/TMarentes/portfolio](https://github.com/TMarentes/portfolio)
 
-Presentation Video: [youtube.com](https://github.com/TMarentes/portfolio)
+Presentation Video: [youtube.com](https://youtu.be/XrSp7wYKmTk)
 
 ## Portfolio Overview
 ### Contents
@@ -49,7 +49,7 @@ The newsletter component on the home page allows users to enter their email addr
 
 
 ### Sitemap
-
+![Sitemap](images/readme-sitemap.png)
 
 ### Target Audience
 The target audience of my web developer portfolio website typically includes potential clients seeking web development services, recruiters or hiring managers looking to evaluate my skills and experience, and fellow developers interested in collaboration or networking. The portfolio website effectively showcases my technical proficiency, highlights my previous employment and achievements, and demonstrates my ability to solve complex problems.
