@@ -4,8 +4,6 @@ Portfolio URL: [theomarentes.netlify.app](https://theomarentes.netlify.app/)
 
 Github Repository: [github.com/TMarentes/portfolio](https://github.com/TMarentes/portfolio)
 
-Presentation Video: [youtube.com](https://youtu.be/XrSp7wYKmTk)
-
 ## Portfolio Overview
 ### Contents
 [Purpose](https://github.com/TMarentes/portfolio#purpose)
